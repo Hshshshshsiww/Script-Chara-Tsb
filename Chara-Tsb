@@ -1,0 +1,9 @@
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+game:GetService("StarterGui"):SetCore("SendNotification",{
+Title = "📃Script  Chara Tsb📃",
+Text = "create by lk_729", 
+Duration = 3
+})
+loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-Chara-script-for-tsb-22425"))()
